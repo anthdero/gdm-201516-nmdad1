@@ -33,11 +33,16 @@ Mijn [YouTube][]-kanaal bevat recreatieve filmpjes gemaakt met screencaptures va
 * jQuery  
 * MySQL  
 
-| Microsoft Office 2016      |    Value | Qty  |
+| Microsoft Office 2016      |    Adobe Creative Cloud | PhpStorm  |
 | :-------- | --------:| :--: |
-| Computer  | 1600 USD |  5   |
-| Phone     |   12 USD |  12  |
-| Pipe      |    1 USD | 234  |
+| Microsoft Word  | Adobe Illustrator CC 2015 |     |
+| Microsoft Excel     |   Adobe InDesign CC 2015 |    |
+| Microsoft PowerPoint      |    Adobe Photoshop CC 2015 |   |
+|       |    Adobe Dreamweaver CC 2015 |   |
+|       |    Adobe Premiere Pro CC 2015 |   |
+|       |    Adobe After Effects CC 2015 |   |
+|       |    Adobe Audition CC 2015 |   |
+|       |    Adobe Lightroom CC 2015 |   |
 
 ##SOFTWAREKENNIS
 * Microsoft Office 2016  
