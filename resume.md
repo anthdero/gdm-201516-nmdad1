@@ -1,4 +1,4 @@
-BIOGRAFIE:
+#BIOGRAFIE:
 Woonplaats: 
 Heuzelstraat 1
 9790 Wortegem-Petegem
