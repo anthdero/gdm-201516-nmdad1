@@ -6,6 +6,9 @@ Heuzelstraat 1
 9790 Wortegem-Petegem  
 
 ##PORTFOLIO
+Op [WordPress][] kan je mijn blog terugvinden van webdadi-1. Het is een overzicht van mijn werk doorheen het hele schooljaar. Het bevat filmpjes, documenten en meer.
+
+[WordPress]: https://wordpress.com/stats/day/anthdero.wordpress.com 
 ####WordPress:
 https://wordpress.com/stats/day/anthdero.wordpress.com  
 ####YouTube:
