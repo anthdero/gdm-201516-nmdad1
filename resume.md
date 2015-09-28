@@ -1,9 +1,7 @@
 ##BIOGRAFIE
-Naam:  
-Anthony De Rouck  
-Woonplaats:  
-Heuzelstraat 1  
-9790 Wortegem-Petegem  
+Naam: Anthony De Rouck  
+Woonplaats: Heuzelstraat 1  
+            9790 Wortegem-Petegem  
 
 ##PORTFOLIO
 ####WordPress:
