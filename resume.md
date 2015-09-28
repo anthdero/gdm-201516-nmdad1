@@ -33,6 +33,12 @@ Mijn [YouTube][]-kanaal bevat recreatieve filmpjes gemaakt met screencaptures va
 * jQuery  
 * MySQL  
 
+| Item      |    Value | Qty  |
+| :-------- | --------:| :--: |
+| Computer  | 1600 USD |  5   |
+| Phone     |   12 USD |  12  |
+| Pipe      |    1 USD | 234  |
+
 ##SOFTWAREKENNIS
 * Microsoft Office 2016  
   * Microsoft Word    
@@ -49,13 +55,6 @@ Mijn [YouTube][]-kanaal bevat recreatieve filmpjes gemaakt met screencaptures va
  * Adobe Lightroom CC 2015  
 * PhpStorm  
 
-You can create footnotes like this[^foot1].
-
-That's some text with a footnote.[^foot2]
-
-[^foot1]: And that's the footnote.
-
-[^foot2]: Here is the *text* of the **footnote**.
 ##CONTACTINFORMATIE
 Tel: 0498/64.67.77  
 E-mail: anthony.derouck@student.arteveldehs.be  
