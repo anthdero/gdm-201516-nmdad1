@@ -11,7 +11,9 @@ https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg
 
 ##WERKERVARING
 * Bayer Zwijnaarde   
-* Blokker Ronse  
+* Blokker  
+ * Ronse  
+ * Sint-Denijs-Westrem  
 * Renmans Ronse  
 * Gamma Ronse  
 
