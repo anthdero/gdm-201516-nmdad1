@@ -49,6 +49,13 @@ Mijn [YouTube][]-kanaal bevat recreatieve filmpjes gemaakt met screencaptures va
  * Adobe Lightroom CC 2015  
 * PhpStorm  
 
+You can create footnotes like this[^foot1].
+
+That's some text with a footnote.[^foot2]
+
+[^foot1]: And that's the footnote.
+
+[^foot2]: Here is the *text* of the **footnote**.
 ##CONTACTINFORMATIE
 Tel: 0498/64.67.77  
 E-mail: anthony.derouck@student.arteveldehs.be  
