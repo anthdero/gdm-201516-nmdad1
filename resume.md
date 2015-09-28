@@ -16,11 +16,11 @@ https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg
 *Gamma Ronse  
 
 ##KENNIS WEBTECHNOLOGIËN
-*HTML
-*CSS
-*JavaScript
-*jQuery
-*MySQL
+*HTML  
+*CSS  
+*JavaScript  
+*jQuery  
+*MySQL  
 
 ##SOFTWAREKENNIS
 *Microsoft Office 2014 ( Word, Excel, PowerPoint)  
