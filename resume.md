@@ -23,7 +23,10 @@ https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg
 * MySQL  
 
 ##SOFTWAREKENNIS
-* Microsoft Office 2014 ( Word, Excel, PowerPoint)  
+* Microsoft Office 2014  
+  * Word  
+  * Excel  
+  * PowerPoint    
 * PhpStorm  
 * Adobe Illustrator CC 2014  
 * Adobe InDesign CC 2014  
