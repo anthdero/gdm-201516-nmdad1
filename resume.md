@@ -1,3 +1,4 @@
+![profilepic](https://avatars0.githubusercontent.com/u/14732809?v=3&u=5dd463738d93a6c3e960347b383f4cd23831958c&s=140)
 ##BIOGRAFIE
 >Mijn naam is **Anthony De Rouck**. Ik ben 22 jaar oud en woon momenteel, samen met mijn vriendin Femke, in Gent. Mijn grote passie is filmpjes maken, webdesign e.d. Ik creëer graag mooie dingen met technologie, daarom heb ik binnen mijn opleiding voor het deeltraject **proDUCE** gekozen. 
 
