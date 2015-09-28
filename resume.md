@@ -5,6 +5,7 @@ Heuzelstraat 1
 
 PORTFOLIO:
 https://wordpress.com/stats/day/anthdero.wordpress.com
+https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg
 
 WERKERVARING:
 Bayer Zwijnaarde 
