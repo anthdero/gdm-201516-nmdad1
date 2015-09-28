@@ -33,6 +33,7 @@ Mijn [YouTube][]-kanaal bevat recreatieve filmpjes gemaakt met screencaptures va
 * jQuery  
 * MySQL  
 
+##SOFTWAREKENNIS
 | Microsoft Office 2016      |    Adobe Creative Cloud | PhpStorm  |
 | :-------- | --------:| :--: |
 | Microsoft Word  | Adobe Illustrator CC 2015 |     |
@@ -43,22 +44,6 @@ Mijn [YouTube][]-kanaal bevat recreatieve filmpjes gemaakt met screencaptures va
 |       |    Adobe After Effects CC 2015 |   |
 |       |    Adobe Audition CC 2015 |   |
 |       |    Adobe Lightroom CC 2015 |   |
-
-##SOFTWAREKENNIS
-* Microsoft Office 2016  
-  * Microsoft Word    
-  * Microsoft Excel  
-  * Microsoft PowerPoint   
-* Adobe Creative Cloud  
- * Adobe Illustrator CC 2015  
- * Adobe InDesign CC 2015  
- * Adobe Photoshop CC 2015  
- * Adobe Dreamweaver CC 2015  
- * Adobe Premiere Pro CC 2015  
- * Adobe After Effects CC 2015  
- * Adobe Audition CC 2015  
- * Adobe Lightroom CC 2015  
-* PhpStorm  
 
 ##CONTACTINFORMATIE
 Tel: 0498/64.67.77  
