@@ -1,13 +1,17 @@
 ##BIOGRAFIE
+Naam:  
+Anthony De Rouck  
 Woonplaats:  
 Heuzelstraat 1  
 9790 Wortegem-Petegem  
 
 ##PORTFOLIO
 ####WordPress:
-https://wordpress.com/stats/day/anthdero.wordpress.com
+https://wordpress.com/stats/day/anthdero.wordpress.com  
 ####YouTube:
-https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg
+https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg  
+####Vimeo:
+https://vimeo.com/user37598482  
 
 ##WERKERVARING
 * Bayer Zwijnaarde   
