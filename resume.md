@@ -1,7 +1,7 @@
 ##BIOGRAFIE
-Woonplaats: 
-Heuzelstraat 1
-9790 Wortegem-Petegem
+Woonplaats:  
+Heuzelstraat 1  
+9790 Wortegem-Petegem  
 
 ##PORTFOLIO
 ####WordPress:
@@ -16,11 +16,7 @@ https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg
 *Gamma Ronse  
 
 ##KENNIS WEBTECHNOLOGIËN
-*HTML  
-*CSS  
-*JavaScript  
-*jQuery  
-*MySQL  
+HTML, CSS, JavaScript, jQuery, MySQL
 
 ##SOFTWAREKENNIS
 *Microsoft Office 2014 ( Word, Excel, PowerPoint)  
@@ -35,5 +31,5 @@ https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg
 *Adobe Lightroom CC 2015  
 
 ##CONTACTINFORMATIE
-Tel: 0498/64.67.77
-E-mail: anthony.derouck@student.arteveldehs.be
+Tel: 0498/64.67.77  
+E-mail: anthony.derouck@student.arteveldehs.be  
