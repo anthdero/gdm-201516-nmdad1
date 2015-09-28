@@ -1,7 +1,5 @@
 ##BIOGRAFIE
-Naam: Anthony De Rouck  
-Woonplaats: Heuzelstraat 1  
-            9790 Wortegem-Petegem  
+>Mijn naam is Anthony De Rouck. Ik ben 22 jaar oud en woon momenteel in Gent. Mijn grote passie is filmpjes maken, webdesign ed. Ik creëer graag mooie dingen met technologie. Daarom heb ik binnen mijn opleiding voor het deeltraject proDUCE gekozen. 
 
 ##PORTFOLIO
 ####WordPress:
