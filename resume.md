@@ -16,19 +16,23 @@ https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg
 *Gamma Ronse  
 
 ##KENNIS WEBTECHNOLOGIËN
-HTML, CSS, JavaScript, jQuery, MySQL
+*HTML  
+*CSS  
+*JavaScript  
+*jQuery  
+*MySQL  
 
 ##SOFTWAREKENNIS
-Microsoft Office 2014 ( Word, Excel, PowerPoint)
-PhpStorm
-Adobe Illustrator CC 2014
-Adobe InDesign CC 2014
-Adobe Photoshop CC 2014
-Adobe Dreamweaver CC 2014
-Adobe Premiere Pro CC 2014
-Adobe After Effects CC 2014
-Adobe Audition CC 2014
-Adobe Lightroom CC 2015
+*Microsoft Office 2014 ( Word, Excel, PowerPoint)  
+*PhpStorm  
+*Adobe Illustrator CC 2014  
+*Adobe InDesign CC 2014  
+*Adobe Photoshop CC 2014  
+*Adobe Dreamweaver CC 2014  
+*Adobe Premiere Pro CC 2014  
+*Adobe After Effects CC 2014  
+*Adobe Audition CC 2014  
+*Adobe Lightroom CC 2015  
 
 ##CONTACTINFORMATIE
 Tel: 0498/64.67.77
