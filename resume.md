@@ -33,7 +33,7 @@ Mijn [YouTube][]-kanaal bevat recreatieve filmpjes gemaakt met screencaptures va
 * jQuery  
 * MySQL  
 
-| Item      |    Value | Qty  |
+| Microsoft Office 2016      |    Value | Qty  |
 | :-------- | --------:| :--: |
 | Computer  | 1600 USD |  5   |
 | Phone     |   12 USD |  12  |
