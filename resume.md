@@ -1,5 +1,7 @@
 ##BIOGRAFIE
->Mijn naam is **Anthony De Rouck**. Ik ben 22 jaar oud en woon momenteel >> samen met mijn vriendin, **Femke** in Gent. Mijn grote passie is filmpjes maken, webdesign e.d. Ik creëer graag mooie dingen met technologie, daarom heb ik binnen mijn opleiding voor het deeltraject **proDUCE** gekozen. 
+>Mijn naam is **Anthony De Rouck**. Ik ben 22 jaar oud en woon momenteel 
+>> samen met mijn vriendin, **Femke** in Gent. 
+>Mijn grote passie is filmpjes maken, webdesign e.d. Ik creëer graag mooie dingen met technologie, daarom heb ik binnen mijn opleiding voor het deeltraject **proDUCE** gekozen. 
 
 ##PORTFOLIO
 ####WordPress:
