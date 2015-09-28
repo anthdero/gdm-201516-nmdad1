@@ -10,10 +10,10 @@ https://wordpress.com/stats/day/anthdero.wordpress.com
 https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg
 
 ##WERKERVARING
-*Bayer Zwijnaarde   
-*Blokker Ronse  
-*Renmans Ronse  
-*Gamma Ronse  
+* Bayer Zwijnaarde   
+* Blokker Ronse  
+* Renmans Ronse  
+* Gamma Ronse  
 
 ##KENNIS WEBTECHNOLOGIËN
 *HTML  
