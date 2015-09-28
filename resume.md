@@ -6,15 +6,20 @@ Heuzelstraat 1
 9790 Wortegem-Petegem  
 
 ##PORTFOLIO
+####WordPress:
 Op [WordPress][] kan je mijn blog terugvinden van webdadi-1. Het is een overzicht van mijn werk doorheen het hele schooljaar. Het bevat filmpjes, documenten en meer.
 
 [WordPress]: https://wordpress.com/stats/day/anthdero.wordpress.com 
-####WordPress:
-https://wordpress.com/stats/day/anthdero.wordpress.com  
+
 ####YouTube:
-https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg  
+Mijn [YouTube][]-kanaal bevat recreatieve filmpjes gemaakt met screencaptures van games en bijpassende muziek.
+
+[YouTube]: https://www.youtube.com/channel/UCBdy6MMrF5VK9GKFeze2bXg   
+
 ####Vimeo:
-https://vimeo.com/user37598482  
+[Vimeo][] gebruik ik voor professionele doeleinden. Hier is een collectie terug te vinden van de projecten die ik voor mijn opleiding heb gemaakt.
+
+[Vimeo]: https://vimeo.com/user37598482  
 
 ##WERKERVARING
 * Bayer Zwijnaarde   
